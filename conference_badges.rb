@@ -24,4 +24,6 @@ def printer(speakers)
  end
 end
 
+# HELPFUL LINK - http://karolinakumiega.com/2017/07/09/re_introduction_to_arrays_in_ruby/
+
 
